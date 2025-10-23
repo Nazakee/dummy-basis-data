@@ -1,0 +1,17 @@
+INSERT INTO metode_pembayaran ("id_metode", "nama_metode", "biaya_admin") VALUES
+('PAY00001', 'Transfer Bank BCA', 2500),
+('PAY00002', 'Transfer Bank BNI', 3000),
+('PAY00003', 'Transfer Bank Mandiri', 2700),
+('PAY00004', 'Transfer Bank BRI', 2500),
+('PAY00005', 'Transfer Bank CIMB Niaga', 3200),
+('PAY00006', 'Transfer Bank Permata', 2800),
+('PAY00007', 'GoPay', 5000),
+('PAY00008', 'OVO', 4500),
+('PAY00009', 'DANA', 4000),
+('PAY00010', 'ShopeePay', 4200),
+('PAY00011', 'LinkAja', 4800),
+('PAY00012', 'QRIS', 3500),
+('PAY00013', 'Kartu Kredit Visa', 7000),
+('PAY00014', 'Kartu Kredit Mastercard', 6900),
+('PAY00015', 'Virtual Account', 3000),
+('PAY00016', 'Tunai', 2000);

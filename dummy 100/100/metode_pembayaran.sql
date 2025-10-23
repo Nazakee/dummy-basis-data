@@ -1,0 +1,11 @@
+INSERT INTO metode_pembayaran ("id_metode", "nama_metode", "biaya_admin") VALUES
+('PAY0001', 'Transfer Bank BCA', 2500),
+('PAY0002', 'Transfer Bank BNI', 3000),
+('PAY0003', 'Transfer Bank Mandiri', 2700),
+('PAY0004', 'Transfer Bank BRI', 2500),
+('PAY0005', 'Mastercard', 3200),
+('PAY0006', 'PayPal', 2800),
+('PAY0007', 'GoPay', 5000),
+('PAY0008', 'OVO', 4500),
+('PAY0009', 'DANA', 4000),
+('PAY0010', 'ShopeePay', 4200),
